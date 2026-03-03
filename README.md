@@ -1,4 +1,4 @@
-# data-analytics-portfolio# **Data Analytics Portfolio**
+# **Data Analytics Portfolio**
 
 Aspiring Data Analyst specializing in SQL and Excel-driven business analytics, focused on transforming structured data into actionable insights across operations and marketing domains.
 
