@@ -22,7 +22,7 @@ Analyzed 28,027 consultation records
 
 Microsoft Excel (Pivot Tables, KPI Tracking, Dashboard Development, Correlation Analysis)
 
-### **📸 Instagram Engagement & Influencer Analytics (SQL)**
+## **📸 Instagram Engagement & Influencer Analytics (SQL)**
 
 Marketing analytics project focused on engagement growth and influencer identification.
 
