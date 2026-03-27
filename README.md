@@ -39,11 +39,11 @@ Marketing analytics project focused on engagement growth and influencer identifi
 
 SQL (JOIN, GROUP BY, HAVING, CTEs, Window Functions, Subqueries)
 
-# 🏦 Bank CRM Analytics Dashboard (Power BI)
+## 🏦 Bank CRM Analytics Dashboard (Power BI)
 
 Customer analytics project focused on identifying churn patterns and improving retention strategies.
 
-## 🔎 Key Highlights
+#### 🔎 Key Highlights
 
 - Analyzed **~10,000 customer records**
 - Identified **27.71% churn in single-product users vs 7.58% in multi-product users**
@@ -52,15 +52,14 @@ Customer analytics project focused on identifying churn patterns and improving r
 - Identified high-risk segment: **50+ age group (44.65% churn)**
 - Created features like **Balance Group & Activity Category** for deeper analysis
 
-
-## 📊 Dashboard Features
+#### 📊 Dashboard Features
 
 - KPI tracking (Churn Rate, Customers, Balance)
 - Customer segmentation analysis
 - Region-wise churn analysis
 - Interactive filters and drill-down insights
 
-## 🛠 Tools Used
+#### 🛠 Tools Used
 
 - Power BI  
 - SQL  
