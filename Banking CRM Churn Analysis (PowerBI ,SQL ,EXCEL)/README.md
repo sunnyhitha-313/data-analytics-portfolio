@@ -5,21 +5,21 @@ This project focuses on analyzing customer behavior and identifying key drivers 
 
 The objective was to generate data-driven insights to improve **customer retention, engagement, and overall business performance**.
 
----
+
 
 ## 📁 Dataset Details
 - Dataset contains ~10,000 customer records
 - Includes demographics, account balance, product usage, credit card status, activity, and churn information
 - Multiple relational tables integrated into a **master dataset using Excel Power Query**
 
----
+
 
 ## 🛠 Approach
 - Data cleaning and transformation using **Excel Power Query**
 - SQL used for **data extraction, joins, aggregations, and KPI calculations**
 - Built interactive dashboards in **Power BI** to analyze churn patterns and customer behavior
 
----
+
 
 ## 🔎 Key Insights
 
@@ -30,7 +30,7 @@ The objective was to generate data-driven insights to improve **customer retenti
 - Identified **59.45% drop-off rate**, highlighting significant retention challenges
 - Churn does not follow a consistent trend across tenure → indicates multiple influencing factors
 
----
+
 
 ## 📊 KPIs & Metrics
 
@@ -41,7 +41,7 @@ The objective was to generate data-driven insights to improve **customer retenti
 - Average Balance  
 - Revenue & Conversion Metrics  
 
----
+
 
 ## 📈 Dashboard Features
 
@@ -51,7 +51,7 @@ The objective was to generate data-driven insights to improve **customer retenti
 - Region-wise and demographic performance analysis  
 - Interactive filters for dynamic insights  
 
----
+
 
 ## 🛠 Tools & Technologies Used
 
@@ -60,7 +60,7 @@ The objective was to generate data-driven insights to improve **customer retenti
 - Excel (Power Query, Data Cleaning)
 - DAX (KPI Calculations)
 
----
+
 
 ## 📂 Project Structure
 
@@ -70,7 +70,7 @@ The objective was to generate data-driven insights to improve **customer retenti
 - `Bank CRM PPT.pptx` → Project presentation  
 - `Bank_CRM Report.docx` → Documentation  
 
----
+
 
 ## 💡 Business Impact
 
@@ -79,7 +79,7 @@ The objective was to generate data-driven insights to improve **customer retenti
 - Provided insights for **targeted retention strategies**
 - Enabled **data-driven decision making** for CRM optimization  
 
----
+
 
 ## 🚀 Future Improvements
 
