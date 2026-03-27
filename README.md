@@ -4,7 +4,7 @@ Aspiring Data Analyst specializing in SQL and Excel-driven business analytics, f
 
 ## **🚀 Projects**
 
-### **📞 Call Center Optimization & Investment Strategy (Excel)**
+## **📞 Call Center Optimization & Investment Strategy (Excel)**
 
 Business operations analysis for ₹1 Crore strategic investment allocation.
 
