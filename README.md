@@ -38,3 +38,5 @@ Marketing analytics project focused on engagement growth and influencer identifi
 ##### **🔹 Querying & Data Manipulation**
 
 SQL (JOIN, GROUP BY, HAVING, CTEs, Window Functions, Subqueries)
+
+
